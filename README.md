@@ -1,5 +1,5 @@
 # Caesar-Cipher
-![](CaesarCipher.png)                                |                                        ![](CaesarCipher1.png)
+![](CaesarCipher.png)                                                                      ![](CaesarCipher1.png)
 
 
 # Caesar Cipher
